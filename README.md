@@ -44,4 +44,5 @@ Among the pedagogical possibilities of this software product, it should be noted
 4. Self-monitoring of activity results in the process of preparing and performing laboratory tests;
 5. Provision of opportunities to obtain information about the physical process and quantitative values ​​of physical quantities.
 6. Direct participation of the student in the process of performing laboratory research - interactive models of laboratory work.
+   
 With the help of this software product, you can perform all the proposed calculations, print and view the report, use auxiliary blocks. Since all educational institutions are equipped with computers, this would allow teachers to check students' work and students to check their work for errors during homework.
